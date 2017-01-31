@@ -4,7 +4,7 @@
 
 创建一个目录作为你的脚手架目录，`mkdir generaotr-name`，`name`为你的脚手架名称
 
-#### 2. ``package.json`配置
+#### 2. `package.json`配置
 
 1. 通过`npm init`初始化你的`package.json`文件
 
