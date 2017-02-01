@@ -12,7 +12,7 @@
 6. 自定义函数阶段，如下面例子中创建的`method1`和`method2`，如果不想创建的自定义函数自动执行，可以将函数设置为私有的，只需要在函数名称中加入`_private_`前缀
 7. `writing`，处理一些特殊操作，如: 路由，控制器等
 8. `conflicts`，处理冲突
-9. `install`，安装依赖阶段，如: `npm`，`bower`和`composer`
+9. `install`，安装依赖阶段，如: `npm`，`yarn`，`bower`和`composer`
 10. `end`，最后阶段，用于清除不需要的文件或提示信息等
 
 > 例子

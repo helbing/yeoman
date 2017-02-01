@@ -6,6 +6,17 @@
 
 1. 创建`generators/app/index.js`和`generators/route/index.js`
 
+   > 目录结构如下所示
+
+   ```tex
+   |- package.json
+   |- generators
+   |  |- app
+   |  |  |- index.js
+   |  |- route
+   |  |  |- index.js
+   ```
+
 2. 注册`generator`，在`package.json`中写入
 
    ```json
