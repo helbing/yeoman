@@ -36,8 +36,8 @@
 
 ```javascript
 this.fs.copy(
-	this.templatePath('index.html'),
-   	this.destinationPath('public/index.html')
+    this.templatePath('index.html'),
+    this.destinationPath('public/index.html')
 );
 ```
 
@@ -48,8 +48,8 @@ this.fs.copy(
 ```javascript
 this.fs.copyTpl(
 	this.templatePath('index.html'),
-   	this.destinationPath('public/index.html'),
-  	{ title: 'Templating with Yeoman' }
+	this.destinationPath('public/index.html'),
+	{ title: 'Templating with Yeoman' }
 );
 ```
 

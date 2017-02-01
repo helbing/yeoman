@@ -5,3 +5,4 @@
 * [Running Context](book/Running_Context.md)
 * [User Interactions](book/User_Interactions.md)
 * [Composability](book/Composability.md)
+* [Interacting with the file system](book/Interacting_with_the_file_system.md)
