@@ -80,7 +80,7 @@ this.option('type', {
 this.log('type: ' + this.options.type);
 ```
 
-6. 这时候执行`yo name`，`name`是你定义的脚手架名称，结果为
+这时候执行`yo name`，`name`是你定义的脚手架名称，结果为
 
 ```javascript
 type: coffee
