@@ -189,7 +189,7 @@
 
      describe('helbing-vue:app', function () {
 
-         it('文件复制', function(done) {
+         it('testing', function(done) {
 
              // 生成运行上下文，指向/generator/app/index.js
              var runContext = helpers.run(path.join(__dirname, '../../generators/app'));
