@@ -1,4 +1,5 @@
 .idea/
+npm-debug.log
 _book/
 node_modules/
 .DS_Store
