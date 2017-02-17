@@ -3,3 +3,6 @@
 
 ### Other
 我之前曾经看官方的文档来配置过`Yeoman`，但是官方文档有些地方并没有讲的很清楚，所以产生了想写中文教程的想法，相较于英文翻译会更加通俗易懂。
+
+`gitbook`地址：[https://www.gitbook.com/book/helbing/yeoman/](https://www.gitbook.com/book/helbing/yeoman/)
+
